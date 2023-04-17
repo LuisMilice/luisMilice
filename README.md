@@ -11,7 +11,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisMilice&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisMilice&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisMilice&hide_progress=true)](https://github.com/luisMilice/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisMilice&layout=compact)](https://github.com/luisMilice/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
